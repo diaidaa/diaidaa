@@ -1,5 +1,5 @@
 - Aïda 👋
-- I am mainly interested in applied cryptography, application security, secure payment systems.
+- Cryptography, Authentication, Identity and Access Management
 - Socials: TW: @cryptaidalysis
 
 <!---
